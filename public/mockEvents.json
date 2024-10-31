@@ -1,0 +1,87 @@
+{
+    "balls": {
+      "scene": {
+        "kiki": [
+          {
+            "id": 1,
+            "name": "Spookiki Ball",
+            "date": "2024-11-01",
+            "location": {
+              "city": "Denver",
+              "region": "Mountain Region",
+              "coast": "West Coast"
+            },
+            "categories": ["OTA Runway", "OTA Performance", "OTA Face"],
+            "oty_approved": true,
+            "winners": [
+              {
+                "name": "Alex Q.",
+                "category": "Runway",
+                "prize": "OTA Runway - $500",
+                "points": 50
+              }
+            ],
+            "ticket_link": "https://ticketlink.com",
+            "details": {
+              "hosts": ["Mother Valentino Flora"],
+              "prizes": ["OTA Runway - $500"]
+            }
+          },
+          {
+            "id": 2,
+            "name": "Bday KiKi Ball",
+            "date": "2024-09-01",
+            "location": {
+              "city": "Denver",
+              "region": "Mountain Region",
+              "coast": "West Coast"
+            },
+            "categories": ["OTA Runway", "OTA Performance", "OTA Face"],
+            "oty_approved": false,
+            "ticket_link": "https://ticketlink.com",
+            "details": {
+              "hosts": ["Mother Valentino Flora"],
+              "prizes": ["OTA Runway - $500"]
+            }
+          }
+        ],
+        "mainstream": [
+          {
+            "id": 3,
+            "name": "Mainstream Ball XYZ",
+            "date": "2024-11-02",
+            "location": {
+              "city": "Los Angeles",
+              "region": "California",
+              "coast": "West Coast"
+            },
+            "categories": ["Realness", "Vogue", "Sex Siren"],
+            "oty_approved": false,
+            "ticket_link": "https://ticketlink.com",
+            "details": {
+              "hosts": ["Another Host"],
+              "prizes": ["Vogue - Trophy"]
+            }
+          },
+          {
+            "id": 4,
+            "name": "Mainstream Ball 123",
+            "date": "2024-03-02",
+            "location": {
+              "city": "Seatle",
+              "region": "PNW",
+              "coast": "West Coast"
+            },
+            "categories": ["Realness", "Vogue", "Sex Siren"],
+            "oty_approved": false,
+            "ticket_link": "https://ticketlink.com",
+            "details": {
+              "hosts": ["Another Host"],
+              "prizes": ["Vogue - Trophy"]
+            }
+          }
+        ]
+      }
+    }
+  }
+  
